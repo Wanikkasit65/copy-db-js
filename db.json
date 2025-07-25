@@ -65,6 +65,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Brody Kill"
+    },
+    {
+      "id": 001,
+      "category": "NewOb",
+      "title": "Object_New",
+      "description": "No info.",
+      "location": "Thailandy",
+      "date": "Dec 12, 2026",
+      "time": "10:00",
+      "petsAllowed": true,
+      "organizer": "Jackie"
     }
   ]
 }
